@@ -1,0 +1,24 @@
+<img alt="Attack" src="./public/img/Attack_icon.png">
+<img alt="Hitpoints" src="./public/img/Hitpoints_icon.png">
+<img alt="Mining" src="./public/img/Mining_icon.png">
+<img alt="Strength" src="./public/img/Strength_icon.png">
+<img alt="Agility" src="./public/img/Agility_icon.png">
+<img alt="Smithing" src="./public/img/Smithing_icon.png">
+<img alt="Defence" src="./public/img/Defence_icon.png">
+<img alt="Herblore" src="./public/img/Herblore_icon.png">
+<img alt="Fishing" src="./public/img/Fishing_icon.png">
+<img alt="Ranged" src="./public/img/Ranged_icon.png">
+<img alt="Thieving" src="./public/img/Thieving_icon.png">
+<img alt="Cooking" src="./public/img/Cooking_icon.png">
+<img alt="Prayer" src="./public/img/Prayer_icon.png">
+<img alt="Crafting" src="./public/img/Crafting_icon.png">
+<img alt="Firemaking" src="./public/img/Firemaking_icon.png">
+<img alt="Magic" src="./public/img/Magic_icon.png">
+<img alt="Fletching" src="./public/img/Fletching_icon.png">
+<img alt="Woodcutting" src="./public/img/Woodcutting_icon.png">
+<img alt="Runecraft" src="./public/img/Runecraft_icon.png">
+<img alt="Slayer" src="./public/img/Slayer_icon.png">
+<img alt="Farming" src="./public/img/Farming_icon.png">
+<img alt="Construction" src="./public/img/Construction_icon.png">
+<img alt="Hunter" src="./public/img/Hunter_icon.png">
+<img alt="Total Level" src="./public/img/Stats_icon.png">
